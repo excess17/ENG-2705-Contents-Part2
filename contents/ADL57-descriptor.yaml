@@ -1,0 +1,127 @@
+id: 3177
+typeCode: ADL
+description: Content ADL 57 description
+mainGroup: free
+status: PUBLIC
+listModel: '24'
+defaultModel: '25'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Eum nostrum harum voluptas enim tenetur sint.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext07
+    value: null
+    values:
+      en: <p>Eum nostrum harum voluptas enim tenetur sint.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Eum nostrum harum voluptas enim tenetur sint.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite01
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite01-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite01-boolean
+        value: null
+        values:
+          en: composite01 boolean field
+          it: composite01 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist04
+    value: null
+    values: {}
+    elements:
+      - code: monolist04
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist04
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Eum nostrum harum voluptas enim tenetur sint.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text00
+    value: null
+    values:
+      en: <p>Eum nostrum harum voluptas enim tenetur sint.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

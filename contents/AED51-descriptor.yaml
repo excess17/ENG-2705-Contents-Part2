@@ -1,0 +1,84 @@
+id: 3491
+typeCode: AED
+description: Content AED 51 description
+mainGroup: free
+status: PUBLIC
+listModel: '48'
+defaultModel: '49'
+attributes:
+  - code: longtext03
+    value: null
+    values:
+      en: <p>Vel occaecati voluptatem facere inventore delectus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Vel occaecati voluptatem facere inventore delectus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext10
+    value: null
+    values:
+      en: <p>Vel occaecati voluptatem facere inventore delectus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Vel occaecati voluptatem facere inventore delectus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

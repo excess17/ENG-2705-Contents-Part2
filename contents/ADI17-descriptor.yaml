@@ -1,0 +1,90 @@
+id: 3057
+typeCode: ADI
+description: Content ADI 17 description
+mainGroup: free
+status: PUBLIC
+listModel: '18'
+defaultModel: '19'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Cum et corporis magnam dolorem sed eos.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext10
+    value: null
+    values:
+      en: <p>Cum et corporis magnam dolorem sed eos.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Cum et corporis magnam dolorem sed eos.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Cum et corporis magnam dolorem sed eos.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

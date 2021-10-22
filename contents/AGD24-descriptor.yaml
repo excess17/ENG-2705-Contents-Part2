@@ -1,0 +1,84 @@
+id: 5064
+typeCode: AGD
+description: Content AGD 24 description
+mainGroup: free
+status: PUBLIC
+listModel: '168'
+defaultModel: '169'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Est pariatur et dicta ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Est pariatur et dicta ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext04
+    value: null
+    values:
+      en: <p>Est pariatur et dicta ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Est pariatur et dicta ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

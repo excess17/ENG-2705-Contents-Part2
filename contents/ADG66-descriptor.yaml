@@ -1,0 +1,87 @@
+id: 2946
+typeCode: ADG
+description: Content ADG 66 description
+mainGroup: free
+status: PUBLIC
+listModel: '6'
+defaultModel: '7'
+attributes:
+  - code: longtext06
+    value: null
+    values:
+      en: <p>Saepe voluptatem aliquam repudiandae saepe.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist11
+    value: null
+    values: {}
+    elements:
+      - code: monolist11
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist11
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Saepe voluptatem aliquam repudiandae saepe.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Saepe voluptatem aliquam repudiandae saepe.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
